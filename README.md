@@ -20,3 +20,24 @@ Antes de instalar las dependencias de Python, asegúrate de tener instaladas las
 ```bash
 sudo apt-get update
 sudo apt-get install python3-dev default-libmysqlclient-dev build-essential libpq-dev
+```
+
+**1. Crear el entorno virtual llamado 'proyecto'**
+```bash
+python3 -m venv proyecto
+```
+
+**2. Activar el entorno virtual**
+```bash
+source proyecto/bin/activate
+```
+
+3. Instalar librerías para MySQL/MariaDB y PostgreSQL**
+```bash
+pip install mysqlclient psycopg2
+```
+
+**4. Instalar librería para Oracle Database**
+```bash
+python -m pip install oracledb --upgrade
+```
