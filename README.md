@@ -1,5 +1,3 @@
-# Proyecto-SGBD
-
 # Proyecto de Gestión de Bases de Datos con Python
 
 Este repositorio contiene una implementación en Python para la conexión y gestión de múltiples Sistemas Gestores de Bases de Datos (SGBD). El proyecto está diseñado para interactuar de manera eficiente con **MariaDB**, **PostgreSQL**,  y **Oracle Database**.
