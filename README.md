@@ -24,7 +24,7 @@ sudo apt-get install python3-dev default-libmysqlclient-dev build-essential libp
 
 **1. Clonar el repositorio y entrar en la carpeta**
 ```bash
-git clone [https://github.com/jfigueroaroldan0/Proyecto-SGBD.git](https://github.com/jfigueroaroldan0/Proyecto-SGBD.git)
+git clone https://github.com/jfigueroaroldan0/Proyecto-SGBD
 cd Proyecto-SGBD
 ```
 
