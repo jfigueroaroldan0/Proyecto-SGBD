@@ -6,9 +6,9 @@ Este repositorio contiene una implementación en Python para la conexión y gest
 
 * **Lenguaje:** Python 3
 * **SGBD Soportados:**
-    * MariaDB / MySQL (vía `mysqlclient`)
-    * PostgreSQL (vía `psycopg2`)
-    * Oracle Database (vía `oracledb`)
+    * MariaDB / MySQL (`mysqlclient`)
+    * PostgreSQL (`psycopg2`)
+    * Oracle Database (`oracledb`)
 
 ## 📋 Requisitos Previos
 
