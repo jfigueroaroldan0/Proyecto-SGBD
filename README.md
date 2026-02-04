@@ -22,22 +22,26 @@ sudo apt-get update
 sudo apt-get install python3-dev default-libmysqlclient-dev build-essential libpq-dev
 ```
 
-**1. Crear el entorno virtual llamado 'proyecto'**
+# 1. Clonar el repositorio y entrar en la carpeta
+git clone [https://github.com/jfigueroaroldan0/Proyecto-SGBD.git](https://github.com/jfigueroaroldan0/Proyecto-SGBD.git)
+cd Proyecto-SGBD
+
+**2. Crear el entorno virtual llamado 'proyecto'**
 ```bash
 python3 -m venv proyecto
 ```
 
-**2. Activar el entorno virtual**
+**3. Activar el entorno virtual**
 ```bash
 source proyecto/bin/activate
 ```
 
-3. Instalar librerías para MySQL/MariaDB y PostgreSQL**
+**4. Instalar librerías para MySQL/MariaDB y PostgreSQL**
 ```bash
 pip install mysqlclient psycopg2
 ```
 
-**4. Instalar librería para Oracle Database**
+**5. Instalar librería para Oracle Database**
 ```bash
 python -m pip install oracledb --upgrade
 ```
