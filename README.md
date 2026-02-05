@@ -20,7 +20,7 @@ sudo apt-get update
 sudo apt-get install python3-dev default-libmysqlclient-dev build-essential libpq-dev
 ```
 
-**1. Clonar el repositorio y entrar en la carpeta**
+**1. Clonar el repositorio y entrar en el directorio**
 ```bash
 git clone https://github.com/jfigueroaroldan0/Proyecto-SGBD
 cd Proyecto-SGBD
