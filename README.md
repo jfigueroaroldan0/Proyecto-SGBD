@@ -43,5 +43,5 @@ pip install mysqlclient psycopg2
 
 **5. Instalar librería para Oracle Database**
 ```bash
-python -m pip install oracledb --upgrade
+python3 -m pip install oracledb --upgrade
 ```
