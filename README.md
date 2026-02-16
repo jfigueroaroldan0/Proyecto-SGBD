@@ -36,12 +36,17 @@ python3 -m venv proyecto
 source proyecto/bin/activate
 ```
 
-**4. Instalar librerías para MySQL/MariaDB y PostgreSQL**
+**4. Para hacerlo automático instalando todas las dependencias**
+```bash
+pip install -r requeriments
+```
+
+**5. Para hacerlo de manera manual instalamos librerías para MySQL/MariaDB y PostgreSQL**
 ```bash
 pip install mysqlclient psycopg2
 ```
 
-**5. Instalar librería para Oracle Database**
+**6. Instalamos librería para Oracle Database**
 ```bash
 python3 -m pip install oracledb --upgrade
 ```
