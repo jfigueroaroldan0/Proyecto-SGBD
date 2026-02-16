@@ -12,7 +12,7 @@ Este repositorio contiene una implementación en Python para la conexión y gest
 
 ## 📋 Requisitos Previos
 
-Antes de instalar las dependencias de Python, asegúrate de tener instaladas las librerías en tu sistema Linux para evitar errores de compilación.
+Antes de instalar las dependencias de Python, asegúrate de tener instaladas las librerías en tu sistema Linux para evitar errores de compilación si lo quieres hacer con estas dependencias, otra opción es hacerlo todo con entorno virtual que es como yo lo he hecho en la documentación para tenerlo aislado de mi sistema.
 
 **En Ubuntu/Debian:**
 ```bash
