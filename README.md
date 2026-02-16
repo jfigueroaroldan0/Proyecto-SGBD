@@ -36,9 +36,9 @@ python3 -m venv proyecto
 source proyecto/bin/activate
 ```
 
-**4. Para hacerlo automático instalando todas las dependencias**
+**4. Para hacerlo automático instalando todas las dependencias del fichero requeriments**
 ```bash
-pip install -r requeriments
+pip install -r requeriments.txt
 ```
 
 **5. Para hacerlo de manera manual instalamos librerías para MySQL/MariaDB y PostgreSQL**
